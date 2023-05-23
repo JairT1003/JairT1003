@@ -19,7 +19,7 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=JairT1003&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Profile Status"/>
 </div>
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairT1003&layout=compact&theme=github_dark" alt="Most Used Languages"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact&theme=github_dark" alt="Most Used Languages"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JairT1003&show_icons=true&theme=github_dark" alt="Github Stats"/>
 </div>
 
