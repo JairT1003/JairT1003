@@ -2,17 +2,26 @@
 
 ---
 <!-- nav -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JairT1003/JairT1003/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JairT1003/JairT1003/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JairT1003/JairT1003/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JairT1003/JairT1003/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JairT1003/JairT1003/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JairT1003/JairT1003/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
-<a href="#----github-profile-status--"><img src="./icon/Button_github_profile_status.png" alt="Button github profile status" width="140"/></a>
-<a href="#----github-profile-trophy--"><img src="./icon/Button_github_profile_trophy.png" alt="Button github profile trophy" width="140"/></a>
-<a href="#----languages-and-tools--"><img src="./icon/Button_languages_and_tools.png" alt="Button languages and tools" width="140"/></a>
-<a href="#----contact--"><img src="./icon/Button_contact.png" alt="Button contact" width="140"/></a>
+<div align="center">
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <a href="#----github-profile-status--"><img src="./icon/Button_github_profile_status.png" alt="Button github profile status" width="140"/></a>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <a href="#----github-profile-trophy--"><img src="./icon/Button_github_profile_trophy.png" alt="Button github profile trophy" width="140"/></a>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <a href="#----languages-and-tools--"><img src="./icon/Button_languages_and_tools.png" alt="Button languages and tools" width="140"/></a>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <a href="#----contact--"><img src="./icon/Button_contact.png" alt="Button contact" width="140"/></a>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+</div>
 
 ---
 <h1 align="center">
@@ -36,7 +45,11 @@
   <img src="./icon/Trophy.gif" width="20" alt="Trophy">
 </h1>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JairT1003&theme=juicyfresh" alt="GitHub Profile Trophy"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JairT1003&theme=juicyfresh">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JairT1003">
+    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=JairT1003">
+  </picture>
 </div>
 
 ---
