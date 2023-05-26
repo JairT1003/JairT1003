@@ -58,9 +58,9 @@
 </h1>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JairT1003&theme=juicyfresh">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JairT1003">
-    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=JairT1003">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JairT1003&no-frame=true&theme=onestar&margin-w=7&margin-h=5&column=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JairT1003&no-frame=true&margin-w=7&margin-h=5&column=7">
+    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=JairT1003&no-frame=true&margin-w=7&margin-h=5&column=7">
   </picture>
 </div>
 
@@ -111,6 +111,8 @@
   <code><img src="./icon/pycharm.svg" alt="pycharm" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/firebase.png" alt="firebase" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/node.png" alt="Node Js" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
 </div>
 
