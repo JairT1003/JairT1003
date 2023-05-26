@@ -2,13 +2,8 @@
 
 ---
 <!-- nav -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+---
 <a href="#----github-profile-status--"><img src="./icon/Button_github_profile_status.png" alt="Button github profile status" width="140"/></a>
 <a href="#----github-profile-trophy--"><img src="./icon/Button_github_profile_trophy.png" alt="Button github profile trophy" width="140"/></a>
 <a href="#----languages-and-tools--"><img src="./icon/Button_languages_and_tools.png" alt="Button languages and tools" width="140"/></a>
