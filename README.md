@@ -31,11 +31,23 @@
 </h1>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=JairT1003&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Profile Status"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=JairT1003&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=JairT1003&date_format=j%20M%5B%20Y%5D">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=JairT1003&date_format=j%20M%5B%20Y%5D" alt="GitHub Profile Status"/>
+  </picture>
 </div>
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact&theme=github_dark" alt="Most Used Languages"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JairT1003&show_icons=true&theme=github_dark" alt="Github Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact" alt="Most Used Languages"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JairT1003&show_icons=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JairT1003&show_icons=true">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JairT1003&show_icons=true" alt="Github Stats"/>
+  </picture>
 </div>
 
 ---
