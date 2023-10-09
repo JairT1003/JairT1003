@@ -13,21 +13,28 @@
 ---
 <div align="center">
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="#----github-profile-status--"><img src="./icon/Button_github_profile_status.png" alt="Button github profile status" width="140"/></a>
+  <a href="#user-content-GitHub-Profile-Status"><img src="./icon/Button_github_profile_status.png" alt="Button github profile status" width="140"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="#----github-profile-trophy--"><img src="./icon/Button_github_profile_trophy.png" alt="Button github profile trophy" width="140"/></a>
+  <a href="#user-content-GitHub-Profile-Trophy"><img src="./icon/Button_github_profile_trophy.png" alt="Button github profile trophy" width="140"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="#----languages-and-tools--"><img src="./icon/Button_languages_and_tools.png" alt="Button languages and tools" width="140"/></a>
+  <a href="#user-content-Languages-and-Tools"><img src="./icon/Button_languages_and_tools.png" alt="Button languages and tools" width="140"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="#----contact--"><img src="./icon/Button_contact.png" alt="Button contact" width="140"/></a>
+  <a href="#user-content-Contact"><img src="./icon/Button_contact.png" alt="Button contact" width="140"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
 </div>
 
----
+<hr id="GitHub-Profile-Status">
+
 <h1 align="center">
-  <img src="./icon/star.gif" width="35" alt="star">
-  <span>GitHub Profile Status</span>
-  <img src="./icon/star.gif" width="35" alt="star">
+  <a href="#user-content-GitHub-Profile-Status">
+    <picture>
+      <img src="./icon/star.gif" width="30" alt="star">
+    </picture>
+    <span>GitHub Profile Status</span>
+    <picture>
+      <img src="./icon/star.gif" width="30" alt="star">
+    </picture>
+  </a>
 </h1>
 
 <div align="center">
@@ -50,35 +57,53 @@
   </picture>
 </div>
 
----
+<hr id="GitHub-Profile-Trophy">
+
 <h1 align="center">
-  <img src="./icon/Trophy.gif" width="20" alt="Trophy">
-  <span>GitHub Profile Trophy</span>
-  <img src="./icon/Trophy.gif" width="20" alt="Trophy">
+  <a href="#user-content-GitHub-Profile-Trophy">
+    <picture>
+      <img src="./icon/Trophy.gif" width="14" alt="Trophy">
+    </picture>
+    <span>GitHub Profile Trophy</span>
+    <picture>
+      <img src="./icon/Trophy.gif" width="14" alt="Trophy">
+    </picture>
+  </a>
 </h1>
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JairT1003&no-frame=true&theme=onestar&margin-w=7&margin-h=5&column=7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JairT1003&no-frame=true&margin-w=7&margin-h=5&column=7">
-    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=JairT1003&no-frame=true&margin-w=7&margin-h=5&column=7">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JairT1003&no-frame=true&theme=onestar&margin-w=7&margin-h=5&column=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JairT1003&no-frame=true&margin-w=7&margin-h=5&column=8">
+    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=JairT1003&no-frame=true&margin-w=7&margin-h=5&column=8">
   </picture>
 </div>
 
----
+<hr id="Languages-and-Tools">
+
 <h1 align="center">
-  <img src="./icon/code.gif" width="25" alt="symbol </>">
-  <span>Languages and Tools</span>
-  <img src="./icon/code.gif" width="25" alt="symbol </>">
+  <a href="#user-content-Languages-and-Tools">
+    <picture>
+      <img src="./icon/code.gif" width="20" alt="symbol </>">
+    </picture>
+    <span>Languages and Tools</span>
+    <picture>
+      <img src="./icon/code.gif" width="20" alt="symbol </>">
+    </picture>
+  </a>
 </h1>
+
 <div align="center">
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/python.svg" alt="python" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/java.svg" alt="java" height="35" width="35"/></code
+  <code><img src="./icon/java.svg" alt="java" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/c-plusplus.svg" alt="c++" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/javascript.svg" alt="javascript" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/Typescript.svg" alt="Typescript" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/html-5.svg" alt="html5" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
@@ -116,12 +141,36 @@
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
 </div>
 
----
+<hr id="Badges">
+
 <h1 align="center">
-  <img src="./icon/contact.gif" width="25" alt="Contact">
-  <span>Contact</span>
-  <img src="./icon/contact.gif" width="25" alt="Contact">
+  <a href="#user-content-Badges">
+    <picture>
+      <img src="./icon/badges.gif" width="20" alt="Contact">
+    </picture>
+    <span>Badges</span>
+    <picture>
+      <img src="./icon/badges.gif" width="20" alt="Contact">
+    </picture>
+  </a>
 </h1>
+
+[![An image of @jairtorres1003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jairtorres1003)](https://holopin.io/@jairtorres1003)
+
+<hr id="Contact">
+
+<h1 align="center">
+  <a href="#user-content-Contact">
+    <picture>
+      <img src="./icon/contact.gif" width="20" alt="Contact">
+    </picture>
+    <span>Contact</span>
+    <picture>
+      <img src="./icon/contact.gif" width="20" alt="Contact">
+    </picture>
+  </a>
+</h1>
+
 <div align="center">
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <a href="https://www.facebook.com/Jair.Torres1003"><img src="./icon/facebook.png" alt="facebook" height="35" width="35"/></a>
