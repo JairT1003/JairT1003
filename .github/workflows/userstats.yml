@@ -24,10 +24,23 @@ jobs:
       with:
         ref: output   # Or whatever you named your dedicated branch
 
-    - name: Generate the user stats image for GitHub profile
+    - name: Generate the user stats image dark for GitHub profile
       uses: cicirello/user-statistician@v1
       with:
+        image-file: userstats-dark.svg
         colors: dark-dimmed
+        custom-title: My GitHub Statistics
+        hide-keys: joined, mostStarred, mostForked, followers, following
+        max-languages: 100
+        animated-language-chart: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Generate the user stats image light for GitHub profile
+      uses: cicirello/user-statistician@v1
+      with:
+        image-file: userstats-light.svg
+        colors: light
         custom-title: My GitHub Statistics
         hide-keys: joined, mostStarred, mostForked, followers, following
         max-languages: 100
