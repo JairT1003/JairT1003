@@ -28,7 +28,7 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         image-file: userstats-dark.svg
-        colors: dark-dimmed
+        colors: dark
         custom-title: My GitHub Statistics
         hide-keys: joined, mostStarred, mostForked, followers, following
         max-languages: 100
